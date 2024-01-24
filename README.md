@@ -45,5 +45,4 @@ Before you answer in an email to Stefan (please use one PowerPoint slide of your
 This experience is self-paced. However, Stefan is completing the pitch in 1 hour and need your valuable input. We recommend you spend no more than that completing this task.
 
 ### Presentation:
-![Editing pwc-cybersecurity-job-simulation_README md at main · mikeal-12_pwc-cybersecurity-job-simulation - Brave 24_01_2024 21_42_01](https://github.com/mikeal-12/pwc-cybersecurity-job-simulation/assets/72464155/806bed0a-3bff-4995-8700-a12e3c7d417d)
 
