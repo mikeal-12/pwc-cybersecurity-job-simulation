@@ -30,3 +30,20 @@ A bit surprised, you and Stefan call back to remind Boldi AG management of the a
 
 To wrap up the call, you explain that in a broader sense information security must be actively managed. A risk management framework can provide top-down guidance to organisations in setting the necessary organisational attitude and mindset.
 
+### Part 1:
+We need to consider the information provided in the voicemail. Please differentiate first due care from due diligence for information risk management. Afterwards, use your new knowledge to analyse what Boldi AG did wrong. Was it due care, due diligence or both? 
+
+Our Cybersecurity team will include your findings in the final pitch presentation with your detailed explanation.
+
+### Part 2:
+Based on the key principles of defense, what basic options does Boldi AG have for limiting or containing damage from risk?
+
+Hint: the abbreviation of the options is Deter, Detect, Prevent, Avoid. Please briefly explain each one.
+
+Before you answer in an email to Stefan (please use one PowerPoint slide of your deck), think about how Boldi AG can react to an attack like the one experienced by their competitor.
+
+This experience is self-paced. However, Stefan is completing the pitch in 1 hour and need your valuable input. We recommend you spend no more than that completing this task.
+
+### Presentation:
+![Editing pwc-cybersecurity-job-simulation_README md at main · mikeal-12_pwc-cybersecurity-job-simulation - Brave 24_01_2024 21_42_01](https://github.com/mikeal-12/pwc-cybersecurity-job-simulation/assets/72464155/806bed0a-3bff-4995-8700-a12e3c7d417d)
+
