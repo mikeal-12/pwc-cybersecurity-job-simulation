@@ -52,3 +52,6 @@ This experience is self-paced. However, Stefan is completing the pitch in 1 hour
 ![PowerPoint Slide Show -  Information Risk Management pptx  24_01_2024 21_42_39](https://github.com/mikeal-12/pwc-cybersecurity-job-simulation/assets/72464155/eaaf0c6a-fcbf-4d0a-8b13-5edf18163474)
 
 ![PowerPoint Slide Show -  Information Risk Management pptx  24_01_2024 21_42_47](https://github.com/mikeal-12/pwc-cybersecurity-job-simulation/assets/72464155/e9dc339e-32ed-435f-a3ce-43f6334ec2ca)
+
+![PowerPoint Slide Show -  Information Risk Management pptx  24_01_2024 21_43_59](https://github.com/mikeal-12/pwc-cybersecurity-job-simulation/assets/72464155/c85155a1-61d6-46ad-8b85-4c399b081013)
+
