@@ -48,3 +48,7 @@ This experience is self-paced. However, Stefan is completing the pitch in 1 hour
 ![pwc-cybersecurity-job-simulation_README md at main · mikeal-12_pwc-cybersecurity-job-simulation - Brave 24_01_2024 21_42_01](https://github.com/mikeal-12/pwc-cybersecurity-job-simulation/assets/72464155/1d014629-bdf6-425f-8b7c-08427ffec4fc)
 
 ![PowerPoint Slide Show -  Information Risk Management pptx  24_01_2024 21_42_29](https://github.com/mikeal-12/pwc-cybersecurity-job-simulation/assets/72464155/1995bd95-a92c-41f6-8b36-a3ed44c779e6)
+
+![PowerPoint Slide Show -  Information Risk Management pptx  24_01_2024 21_42_39](https://github.com/mikeal-12/pwc-cybersecurity-job-simulation/assets/72464155/eaaf0c6a-fcbf-4d0a-8b13-5edf18163474)
+
+![PowerPoint Slide Show -  Information Risk Management pptx  24_01_2024 21_42_47](https://github.com/mikeal-12/pwc-cybersecurity-job-simulation/assets/72464155/e9dc339e-32ed-435f-a3ce-43f6334ec2ca)
