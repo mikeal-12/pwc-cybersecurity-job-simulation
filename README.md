@@ -127,4 +127,6 @@ Write notes below your graphic, explaining in your own words the relationship be
 
 ![PowerPoint Slide Show -  IT Security baseline pptx  29_01_2024 11_11_49](https://github.com/mikeal-12/pwc-cybersecurity-job-simulation/assets/72464155/0348f172-f2d0-4f17-a543-03e26dcf241c)
 
-
+## Task 4: Network Segmentation
+### Background
+The Head of IT Infrastructure of Boldi AG does see the need for network segmentation but cannot follow why a segmented network cannot prevent you from every possible issue. In order to give him and his people a broad understanding of the topic, Stefan organises a workshop and need your help. 
