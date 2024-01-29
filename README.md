@@ -83,3 +83,11 @@ Does any of this present an information security concern? Please explain your an
 
 - After you know enough about Boldi AG, decide what type of risk assessment would be best, a quantitative risk assessment or a qualitative risk assessment. Then explain the difference between quantitative and qualitative assessments. What do you rely on to be able to perform a quantitative assessment? Which method could be more adapted for information security risk assessments?
 This experience is self-paced. However, you and Stefan have a presentation to Boldi AG management with your findings in 1 hour. We recommend you spend no more than that completing this task.
+
+## Presentation
+
+
+![RISK ASSESSMENT_2 pptx - PowerPoint (Product Activation Failed) 29_01_2024 10_50_24](https://github.com/mikeal-12/pwc-cybersecurity-job-simulation/assets/72464155/3314b4a9-a8aa-4f34-b671-23d6e7f26ff5)
+
+![RISK ASSESSMENT_2 pptx - PowerPoint (Product Activation Failed) 29_01_2024 10_50_41](https://github.com/mikeal-12/pwc-cybersecurity-job-simulation/assets/72464155/ba393bed-9d48-494a-9b99-42716745a1fb)
+
