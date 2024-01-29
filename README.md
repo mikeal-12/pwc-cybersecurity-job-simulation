@@ -1,5 +1,5 @@
 # PwC-Cybersecurity-Job-Simulation
-creating a risk assessment presentation in the open-access PwC Virtual Experience Program with Forage.
+I created a risk assessment presentation in the open-access PwC Virtual Experience Program with Forage.
 
 ## Task 1: Integrated Information Defense
 ### Background
@@ -91,3 +91,8 @@ This experience is self-paced. However, you and Stefan have a presentation to Bo
 
 ![RISK ASSESSMENT_2 pptx - PowerPoint (Product Activation Failed) 29_01_2024 10_50_41](https://github.com/mikeal-12/pwc-cybersecurity-job-simulation/assets/72464155/ba393bed-9d48-494a-9b99-42716745a1fb)
 
+![RISK ASSESSMENT_2 pptx - PowerPoint (Product Activation Failed) 29_01_2024 10_50_58](https://github.com/mikeal-12/pwc-cybersecurity-job-simulation/assets/72464155/19f1b541-0da1-468d-960b-14277b22673c)
+
+![RISK ASSESSMENT_2 pptx - PowerPoint (Product Activation Failed) 29_01_2024 10_51_07](https://github.com/mikeal-12/pwc-cybersecurity-job-simulation/assets/72464155/bff3e1aa-0a31-4243-8ba4-fa77825b4178)
+
+![RISK ASSESSMENT_2 pptx - PowerPoint (Product Activation Failed) 29_01_2024 10_51_32](https://github.com/mikeal-12/pwc-cybersecurity-job-simulation/assets/72464155/8d481267-bc17-4d5a-a4ae-1f34c4bc7896)
