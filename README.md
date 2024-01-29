@@ -96,3 +96,35 @@ This experience is self-paced. However, you and Stefan have a presentation to Bo
 ![RISK ASSESSMENT_2 pptx - PowerPoint (Product Activation Failed) 29_01_2024 10_51_07](https://github.com/mikeal-12/pwc-cybersecurity-job-simulation/assets/72464155/bff3e1aa-0a31-4243-8ba4-fa77825b4178)
 
 ![RISK ASSESSMENT_2 pptx - PowerPoint (Product Activation Failed) 29_01_2024 10_51_32](https://github.com/mikeal-12/pwc-cybersecurity-job-simulation/assets/72464155/8d481267-bc17-4d5a-a4ae-1f34c4bc7896)
+
+
+## Task 3: IT system Security Baseline
+### Background
+After analysing the impact of possible risks at Boldi AG, it’s time to determine how we can lower the likelihood of these risks through specific cybersecurity measures. We need to prevent these risks from occurring by decreasing each IT system’s threat surface and thus decreasing the total threat surface of Boldi AG.
+
+Stefan has met with the Head of IT Infrastructure at Boldi AG to discuss the measures required to follow up on the risk assessment. He acknowledged the need for a detailed vulnerability review as this has not been performed for several years. However, he is not convinced that maintaining an up-to-date Information Systems Security Baseline is worth the effort since the system can be scanned with a vulnerability scan anytime. We need to convince him and you'll help Stefan to create some graphics to do so.
+
+### Directive
+First, you need to learn more about:
+
+- Vulnerability Assessment
+- Mitigation Planning
+- Vulnerability Scanning
+- Hardware and Systems Security
+- Information Systems Security Baseline
+
+and why an up-to-date Information System Security Baseline is crucial. 
+
+Use your new knowledge to create a graphic using the terms, so we can present it to the Head of IT Infrastructure. 
+
+Write notes below your graphic, explaining in your own words the relationship between the terms.
+
+### Presentation
+
+![PowerPoint Slide Show -  IT Security baseline pptx  29_01_2024 11_10_22](https://github.com/mikeal-12/pwc-cybersecurity-job-simulation/assets/72464155/0ffea8db-322b-415d-a4f2-31e22e000728)
+
+![PowerPoint Slide Show -  IT Security baseline pptx  29_01_2024 11_11_19](https://github.com/mikeal-12/pwc-cybersecurity-job-simulation/assets/72464155/97f21328-7cc8-4955-95a8-63c81903f72d)
+
+![PowerPoint Slide Show -  IT Security baseline pptx  29_01_2024 11_11_49](https://github.com/mikeal-12/pwc-cybersecurity-job-simulation/assets/72464155/0348f172-f2d0-4f17-a543-03e26dcf241c)
+
+
