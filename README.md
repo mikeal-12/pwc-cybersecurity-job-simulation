@@ -130,3 +130,28 @@ Write notes below your graphic, explaining in your own words the relationship be
 ## Task 4: Network Segmentation
 ### Background
 The Head of IT Infrastructure of Boldi AG does see the need for network segmentation but cannot follow why a segmented network cannot prevent you from every possible issue. In order to give him and his people a broad understanding of the topic, Stefan organises a workshop and need your help. 
+
+
+### Part 1:
+For Stefans preparation, write in Microsoft Word format detailed notes explaining how segmentation contributes to network security and to the security of the whole organisation. Your notes will help Stefan creating the workshop.
+
+### Part 2:
+The  Head of IT Infrastructure of Boldi AG provided Stefan with the following network segmentation:
+
+![image](https://github.com/mikeal-12/pwc-cybersecurity-job-simulation/assets/72464155/7d24d821-d274-44a1-90ef-e146dc3e5c8d)
+
+### Presentation:
+Network segmentation is the practice of dividing a computer network into smaller, isolated segments or subnetworks to enhance security, improve performance, and control access. The primary goal of network segmentation is to create barriers between different parts of a network, preventing unauthorized access and limiting the potential impact of security incidents.
+Key aspects of network segmentation include:
+
+- Isolation: Segmentation divides a network into distinct segments, isolating different types of users, devices, or applications. If a security breach occurs in one segment, it does not automatically grant access to other segments.
+  
+- Access Control: By segmenting the network, organizations can implement granular access controls. This allows administrators to define and restrict access based on specific criteria, such as user roles, device types, or network zones.
+  
+- Security Zones: Networks are often divided into security zones, each with its own security policies. For example, an organization may have separate zones for internal resources, guest access, and critical infrastructure.
+
+- Reduced Attack Surface: Segmentation minimizes the attack surface by limiting the paths and points of entry for potential attackers. This makes it more challenging for malicious actors to move laterally within the network.
+
+- Performance Optimization: In addition to security benefits, network segmentation can enhance performance by reducing congestion and optimizing traffic flow. This is particularly important for large and complex networks.
+
+- Compliance: Many regulatory standards and compliance frameworks recommend or require network segmentation as a security best practice. Segmentation helps organizations meet specific data protection and privacy requirements.
